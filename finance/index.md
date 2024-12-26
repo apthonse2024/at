@@ -1,0 +1,1 @@
+- https://nationalfinanceolympiad.com/nfo-mobile
