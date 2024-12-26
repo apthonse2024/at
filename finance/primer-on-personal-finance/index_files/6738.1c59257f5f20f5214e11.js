@@ -1,0 +1,2 @@
+(self.webpackChunk_scribd_app_monolith=self.webpackChunk_scribd_app_monolith||[]).push([[6738],{26738:()=>{Scribd.send_pingback=function(e){var r,n,a;if(a=e.join(""),!("undefined"!=typeof navigator&&null!==navigator&&null!=(n=navigator.userAgent)?n.match(/Google (Web|Instant) Preview/):void 0))return r={},document.referrer&&(r.referer=document.referrer),$.ajax({type:"POST",url:a,data:r,skip_csrf:!0})}}}]);
+//# sourceMappingURL=https://www.scribd.com/webpack/monolith/6738.1c59257f5f20f5214e11.js.map
